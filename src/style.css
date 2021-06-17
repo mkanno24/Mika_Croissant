@@ -1,0 +1,22 @@
+body {
+  background: thistle;
+}
+
+h1,
+ul,
+p {
+  text-align: center;
+}
+li {
+  display: inline;
+  text-align: center;
+  padding: 20px;
+  font-weight: bold;
+}
+
+img {
+  display: block;
+  margin: auto;
+  max-width: 600px;
+  border-radius: 20px;
+}
